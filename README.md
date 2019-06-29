@@ -3,7 +3,9 @@
 >
 >It works by moving the file to its own unique subdirectory whenever it is being created.  
 
-The original source of fixes program is https://sourceforge.net/projects/dzeditorlineendsfix/
+The original repository: https://sourceforge.net/projects/dzeditorlineendsfix/. 
+
+Always check for updates on it, because the file saved in this repository is for backup purposes only.
 
 # What did i do?
 We create a batch file that runs the patch program and then opens Delphi RAD Studio correctly (I always forgot to open the fix).
